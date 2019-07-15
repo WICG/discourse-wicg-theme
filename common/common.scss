@@ -1,0 +1,19 @@
+.d-header {
+  box-shadow: none;
+}
+
+.d-header .panel {
+  @media screen and (min-width: 700px) {
+    padding: 5px; // This is too much on mobile
+  }
+  background: $secondary;
+  border-radius: 5px;
+}
+
+.extra-info-wrapper .discourse-tag,
+.extra-info-wrapper .badge-wrapper.bullet span.badge-category,
+.extra-info-wrapper .badge-wrapper.bar span.badge-category,
+.extra-info-wrapper .badge-wrapper.none span.badge-category,
+.extra-info-wrapper .topic-statuses .d-icon {
+  color: $header_primary !important;
+}
