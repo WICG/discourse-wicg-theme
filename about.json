@@ -2,7 +2,6 @@
   "name": "discourse-wicg-theme",
   "about_url": null,
   "license_url": null,
-  "assets": {},
   "color_schemes": {
     "WICG": {
       "primary": "222222",
