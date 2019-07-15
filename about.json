@@ -2,8 +2,19 @@
   "name": "discourse-wicg-theme",
   "about_url": null,
   "license_url": null,
-  "assets": {
-  },
+  "assets": {},
   "color_schemes": {
+    "WICG": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "2EB3C4",
+      "quaternary": "2EB3C4",
+      "header_background": "fe6a65",
+      "header_primary": "ffffff",
+      "highlight": "ffff4d",
+      "danger": "fe6a65",
+      "success": "42c361",
+      "love": "fe6a65"
+    }
   }
 }
